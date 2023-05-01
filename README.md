@@ -11,5 +11,5 @@ First, run `userdatageneration.cpp` to create random user ratings of the movies.
 
 # TASKS
 - [ ] Implement kNN
-- [ ] Create Indian movies dataset
+- [x] Create Indian movies dataset
 - [ ] Make report
