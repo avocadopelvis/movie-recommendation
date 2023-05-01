@@ -10,6 +10,7 @@ A hybrid approach to improving collaborative filtering movie recommendation syst
 First, run `userdatageneration.cpp` to create random user ratings of the movies. Then run `main.cpp` to get recommendations for a particular user based on similar users found.
 
 # TASKS
-- [ ] Implement kNN
+- [x] Implement kNN
 - [x] Create Indian movies dataset
+- [ ] Save the similar user ratings as .bin file
 - [ ] Make report
