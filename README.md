@@ -1,5 +1,5 @@
 # SOFT COMPUTING PROJECT
-A hybrid approach to improving collaborative filtering movie recommendation system's performace's using kNN &amp; genetic algorithm.
+A hybrid approach to improving a collaborative filtering based movie recommendation system performace using kNN &amp; genetic algorithm.
 
 - `main.cpp` contains all the implemented algorithms.
 - `userdatageneration.cpp` creates random user ratings of the movies.
